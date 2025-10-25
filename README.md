@@ -13,7 +13,6 @@ It uses local JSON files to simulate a portfolio and exchange rates.
    python main.py
 See your total portfolio value!
 
-🧩 Example Output
-swift
-Копіювати код
+## 🧩 Example Output
+
 Your total crypto portfolio is worth: $12,540.00 💰
